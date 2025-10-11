@@ -12,21 +12,21 @@ Data Analysis · Business Intelligence · Customer Analytics · Strategy Design
 
 ## 🚀 Featured Projects
 ### Data Analysis
-- [Account Inactivity Alert](Account_Inactivity_Alert/)
-- [CLV Estimation](CLV_Estimation/)
-- [Cross-Product Opportunity Analysis](Cross-product%20Opportunity%20Analysis/)
-- [Transaction Frequency Analysis](Transaction_Frequency_Analysis/)
+- [Account Inactivity Alert](https://github.com/Adeola-Helen/Data-Analysis-Projects/tree/main/Account_Inactivity_Alert)
+- [CLV Estimation](https://github.com/Adeola-Helen/Data-Analysis-Projects/tree/main/CLV_Estimation)
+- [Cross-Product Opportunity Analysis](https://github.com/Adeola-Helen/Data-Analysis-Projects/tree/main/Cross-Product%20Opportunity%20Analysis)
+- [Transaction Frequency Analysis](https://github.com/Adeola-Helen/Data-Analysis-Projects/tree/main/Transaction_Frequency_Analysis)
 
 ### CX Analysis
-- [Customer Experience Analysis](Aunty_Funmi's_Place/)
-- [Customer Satisfaction Analysis](TVN/)
+- [Customer Experience Analysis](https://github.com/Adeola-Helen/CX_Analysis_Projects/tree/main/Aunty_Funmi's_Place)
+- [Customer Satisfaction Analysis](https://github.com/Adeola-Helen/CX_Analysis_Projects/tree/main/TVN)
 
 ### CX Survey Design
-- [Customer Experience Survey](Aunty_Funmi's_Place/)
-- [Customer Satisfaction Survey](TVN/)
+- [Customer Experience Survey](https://github.com/Adeola-Helen/CX_Survey_Design/tree/main/Aunty_Funmi's_Place)
+- [Customer Satisfaction Survey](https://github.com/Adeola-Helen/CX_Survey_Design/tree/main/TVN)
 
-### A/B/n 
-- [A/B/n Test for Food Product Development](ABn_Test_FPD)
+### A/B/n Test
+- [A/B/n Test for Food Product Development](https://github.com/Adeola-Helen/A-B-n_Test_Analysis)
 
 ## ⚙️ Skills & Expertise
 - Technical Skills: Data Analysis and Visualization | Database Management System (SQL) | Survey Design | Statistical Analysis | Product Optimization | Microsoft Office Suite
