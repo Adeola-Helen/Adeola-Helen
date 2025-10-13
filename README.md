@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I build **data-driven and creative solutions** that help businesses work smarter — from analyzing customer behavior to optimizing pricing, streamlining operations, and designing brand systems that scale.  
+I build **data-driven and creative solutions** that help businesses work smarter, from analyzing customer behavior to optimizing pricing, streamlining operations, and designing brand systems that scale.  
 
 My work lives at the intersection of **analytics, operations, and strategy**, where insights meet implementation.  
 Whether it’s designing **Power BI dashboards**, **SQL-based automations**, or **process improvement frameworks**, my goal is to make data not just useful but actionable.
