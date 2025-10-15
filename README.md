@@ -29,9 +29,9 @@ Data Analysis · Business Intelligence · Customer Analytics · Strategy Design
 - [A/B/n Test for Food Product Development](https://github.com/Adeola-Helen/A-B-n_Test_Analysis)
 
 ## ⚙️ Skills & Expertise
-- Technical Skills: Data Analysis and Visualization | Database Management System (SQL) | Survey Design | Statistical Analysis | Product Optimization | Microsoft Office Suite
-- Tools: Google Suite | Microsoft Suite | Power BI | SQL | GitHub | SPSS
-- Soft Skills: Problem-Solving | Analytical Thinking |  Critical Thinking | Effective Communication | Collaboration | Project Management| Attention to Detail | Creativity | Decision-Making
+- **Technical Skills:** Data Analysis and Visualization | Database Management System (SQL) | Survey Design | Statistical Analysis | Product Optimization | Microsoft Office Suite
+- **Tools:** Google Suite | Microsoft Suite | Power BI | SQL | GitHub | SPSS
+- **Soft Skills:** Problem-Solving | Analytical Thinking |  Critical Thinking | Effective Communication | Collaboration | Project Management| Attention to Detail | Creativity | Decision-Making
 
 ## 💼 Professional Experience & 🎓 Education
 - [View My Resume](https://drive.google.com/file/d/132g7rMVSB8EX0KX1VbeaipmedQFqAraz/view?usp=sharing)
