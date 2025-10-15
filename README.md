@@ -34,7 +34,7 @@ Data Analysis · Business Intelligence · Customer Analytics · Strategy Design
 - Soft Skills: Problem-Solving | Analytical Thinking |  Critical Thinking | Effective Communication | Collaboration | Project Management| Attention to Detail | Creativity | Decision-Making
 
 ## 💼 Professional Experience & 🎓 Education
-[View My Resume](https://drive.google.com/file/d/16QTXNbAfLUcXPHRbvglcPO-gNRxdZGL5/view?usp=sharing)
+- [View My Resume](https://drive.google.com/file/d/1kHVSkFunlEGp9VvztjOcvTg9sUPvDGjA/view?usp=sharing)
 
 ## 🌍 Let’s Connect
 - 💼 [LinkedIn](https://linkedin.com/in/adeola-helen-oluokun)    
