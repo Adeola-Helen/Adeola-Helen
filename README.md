@@ -5,7 +5,7 @@ Welcome to my GitHub!
 I build **data-driven and creative solutions** that help businesses work smarter, from analyzing customer behavior to optimizing pricing, streamlining operations, and designing brand systems that scale.  
 
 My work lives at the intersection of **analytics, operations, and strategy**, where insights meet implementation.  
-Whether it’s designing **Power BI dashboards**, **SQL-based automations**, or **process improvement frameworks**, my goal is to make data not just useful but actionable.
+Whether it’s designing **Insights Dashboards**, **SQL-based automations**, or **process improvement frameworks**, my goal is to make data not just useful but actionable.
 
 **Focus Areas:**  
 Data Analysis · Business Intelligence · Customer Analytics · Strategy Design 
@@ -30,7 +30,7 @@ Data Analysis · Business Intelligence · Customer Analytics · Strategy Design
 
 ## ⚙️ Skills & Expertise
 - **Technical Skills:** Data Analysis and Visualization | Database Management System (SQL) | Survey Design | Statistical Analysis | Product Optimization | Microsoft Office Suite
-- **Tools:** Google Suite | Microsoft Suite | Power BI | SQL | GitHub | SPSS
+- **Tools:** Google Suite | Microsoft Suite | Power BI | SQL | GitHub | SPSS | Looker studio | BigQuery
 - **Soft Skills:** Problem-Solving | Analytical Thinking |  Critical Thinking | Effective Communication | Collaboration | Project Management| Attention to Detail | Creativity | Decision-Making
 
 ## 💼 Professional Experience & 🎓 Education
