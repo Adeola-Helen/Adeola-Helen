@@ -18,8 +18,9 @@ Data Analysis · Business Intelligence · Customer Analytics · Strategy Design
 - [Transaction Frequency Analysis](https://github.com/Adeola-Helen/Data-Analysis-Projects/tree/main/Transaction_Frequency_Analysis)
 
 ### CX Analysis
-- [Customer Experience Analysis](https://github.com/Adeola-Helen/CX_Analysis_Projects/tree/main/Aunty_Funmi's_Place)
-- [Customer Satisfaction Analysis](https://github.com/Adeola-Helen/CX_Analysis_Projects/tree/main/TVN)
+- [Customer Experience Analysis - Consumer Service](https://github.com/Adeola-Helen/CX_Analysis_Projects/tree/main/Aunty_Funmi's_Place)
+- [Customer Satisfaction Analysis - FMCG](https://github.com/Adeola-Helen/CX_Analysis_Projects/tree/main/TVN)
+-  [Customer Experience Analysis - Mobile Gameplay](https://github.com/Adeola-Helen/CX_Analysis_Projects/tree/main/CX_Mobile_Gameplay)
 
 ### CX Survey Design
 - [Customer Experience Survey](https://github.com/Adeola-Helen/CX_Survey_Design/tree/main/Aunty_Funmi's_Place)
