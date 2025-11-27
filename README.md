@@ -8,7 +8,7 @@ My work lives at the intersection of **analytics, operations, and strategy**, wh
 Whether it’s designing **Insights Dashboards**, **SQL-based automations**, or **process improvement frameworks**, my goal is to make data not just useful but actionable.
 
 **Focus Areas:**  
-Data Analysis · Business Intelligence · Customer Analytics · Strategy Design 
+Data Analysis · Business Intelligence · Customer Analytics · Strategy Design · Product Analytics · Business Analytics
 
 ## 🚀 Featured Projects
 ### Data Analysis
